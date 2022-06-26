@@ -1,0 +1,27 @@
+#mouse{
+width: 600px;
+height: 400;
+border-style: dotted;
+border-width: 5px;
+}
+.copy_right_footer{
+    text-align: center;
+    background-color: gray;
+    height: 50px;
+    border-radius: 10px;
+    color: black;
+}
+#hr{
+    border-width: 5px;
+    background-color: black;
+}
+
+
+
+#google{
+    float:none;
+}
+
+#mobilnet{
+    float:none;
+}
